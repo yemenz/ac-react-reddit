@@ -8,10 +8,12 @@
   "scripts": {
     "dev": "node server.js",
     "dev:next": "next",
+    
     "build": "export NODE_ENV=production; next build",
     "start": "export NODE_ENV=production; node server.js",
     "start:next": "next start -p $PORT",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "npm run build",
+     "now-build": "next build"
   },
   "repository": {
     "type": "git",
