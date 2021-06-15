@@ -42,6 +42,11 @@
     "styled-tools": "^1.6.0"
   },
   "devDependencies": {
+ "babel-plugin-inline-react-svg": "*",
+    "babel-plugin-react-element-info": "*",
+    "babel-plugin-styled-components": "*",
+    "babel-plugin-transform-remove-console": "*",
+    "redux-logger": "*"
     "babel-plugin-inline-react-svg": "*",
     "babel-plugin-react-element-info": "*",
     "babel-plugin-styled-components": "*",
