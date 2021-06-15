@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdullahceylan/ac-react-reddit.git"
+    "url": "git+https://github.com/yemenz/acreactreddit.git"
   },
   "dependencies": {
     "add": "^2.0.6",
